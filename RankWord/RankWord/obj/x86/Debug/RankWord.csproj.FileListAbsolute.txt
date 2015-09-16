@@ -1,0 +1,4 @@
+c:\users\arthur c. baroi\documents\visual studio 2010\Projects\RankWord\RankWord\bin\Debug\RankWord.exe
+c:\users\arthur c. baroi\documents\visual studio 2010\Projects\RankWord\RankWord\bin\Debug\RankWord.pdb
+c:\users\arthur c. baroi\documents\visual studio 2010\Projects\RankWord\RankWord\obj\x86\Debug\RankWord.exe
+c:\users\arthur c. baroi\documents\visual studio 2010\Projects\RankWord\RankWord\obj\x86\Debug\RankWord.pdb
